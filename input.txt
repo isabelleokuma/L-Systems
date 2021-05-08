@@ -1,0 +1,5 @@
+interactions=4,angle=147
+InitialString=FFFFFFFFF
+FFFF+FFF
+F=F+FFFFF-FF+F+FFFF+FFFFFF-FF
+F=FFFFFF
